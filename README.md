@@ -7,7 +7,7 @@ Dustbins are small plastic (or metal) containers that are used to store trash or
 * Ultrasonic Sensor and
 * Jumper Wires
 # Schematics : 
-![Schematics](Smart Dustbin.jpg)
+![Schematics](Smart_Dustbin.jpg)
 # Code : 
 [Code Link](Smart_Dustbin.ino)
 # How it works : 
