@@ -1,5 +1,5 @@
 # smart-dustbin
-# Introduction :
+# Introduction : 
 Dustbins are small plastic (or metal) containers that are used to store trash or waste on a temporary basis. They are often used in homes, offices, streets, parks etc. to collect the waste. Have you ever seen a trash bin that senses when you’re going to put trash in it ? Yes,it is possible to make such a Dustbin easily with some low cost components. 
 # Apparatus : 
 * Arduino Uno
